@@ -1,5 +1,5 @@
 package com.itman;
-//数组联系及测试
+//thisisGitHubtest数组联系及测试
 public class Arry {
 	public static void main(String[] args) {
 		int[] arr = new int[] {25,35,46,22,68,55};
